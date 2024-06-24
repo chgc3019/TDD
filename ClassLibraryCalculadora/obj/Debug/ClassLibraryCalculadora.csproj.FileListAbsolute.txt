@@ -1,0 +1,5 @@
+C:\Users\cguerra\Documents\GitHub\TDD\SolutionCalculadoraTDD\ClassLibraryCalculadora\bin\Debug\ClassLibraryCalculadora.dll
+C:\Users\cguerra\Documents\GitHub\TDD\SolutionCalculadoraTDD\ClassLibraryCalculadora\bin\Debug\ClassLibraryCalculadora.pdb
+C:\Users\cguerra\Documents\GitHub\TDD\SolutionCalculadoraTDD\ClassLibraryCalculadora\obj\Debug\ClassLibraryCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\cguerra\Documents\GitHub\TDD\SolutionCalculadoraTDD\ClassLibraryCalculadora\obj\Debug\ClassLibraryCalculadora.dll
+C:\Users\cguerra\Documents\GitHub\TDD\SolutionCalculadoraTDD\ClassLibraryCalculadora\obj\Debug\ClassLibraryCalculadora.pdb
